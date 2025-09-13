@@ -9,6 +9,7 @@
         <module name="application" />
         <module name="common" />
         <module name="user" />
+        <module name="profile" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="application" options="" />
       <module name="common" options="" />
+      <module name="profile" options="" />
       <module name="user" options="" />
     </option>
   </component>
