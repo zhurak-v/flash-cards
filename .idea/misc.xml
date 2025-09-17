@@ -9,11 +9,16 @@
         <option value="$PROJECT_DIR$/backend/application/pom.xml" />
         <option value="$PROJECT_DIR$/backend/common/pom.xml" />
         <option value="$PROJECT_DIR$/backend/profile/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/src/application/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/src/common/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/src/profile/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/src/user/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/application/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/profile/pom.xml" />
       </set>
     </option>
   </component>
